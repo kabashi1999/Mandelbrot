@@ -4,7 +4,8 @@
 
 This is the capstone project for the [Udacity C++ Nanodegree Program]. a Visualization of the [MandebrotSet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_vtDx0r78AhVVYKQEHT1KBCUQFnoECA0QAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMandelbrot_set&usg=AOvVaw2_kNPklAEcGeUMvWzU2zYe) is generated using [SDL](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwizn5aZ0778AhXQXqQEHXVUANAQFnoECAkQAQ&url=https%3A%2F%2Fwww.libsdl.org%2F&usg=AOvVaw0UKX-Hd5cnZaTK_nk7m-ZI) graphics liberary. the program will start with the set centerd on the screen, right clicks can be used to zoom in on different parts of the set. 
 
-<img src="Screenshot(76).png"/>
+
+![Screenshot](Screenshot(76).png)
 
 ## File Structure
 
