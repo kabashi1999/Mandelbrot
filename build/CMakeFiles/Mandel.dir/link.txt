@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -std=c++17   CMakeFiles/Mandel.dir/src/main.cpp.o CMakeFiles/Mandel.dir/src/mandelbrot.cpp.o  -o Mandel -L/usr/lib/x86_64-linux-gnu  -lSDL2 /usr/lib/x86_64-linux-gnu/libSDL2_image.so 
